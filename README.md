@@ -77,3 +77,16 @@ is expected to be prevented.
 * Hassle-Free user experience
 * Encrypted Data 
 * Well handled exceptions
+
+### Future Prospects
+
+* A new feature will be added in which people close to the user can help in
+case of an emergency.
+* Feature to allow the user to share a picture of the crime scene if possible.
+* In future, the app can address emergencies during natural calamities like
+floods, earthquakes etc.
+* Machine Learning will be employed for better PCR dispatch and quick help.
+* Instead of monolithic infrastructure, the system will be based on
+micro-services.
+* Implementation of ELK stack.
+* The incorporation of ansible will make the entire architecture fault-tolerant.
