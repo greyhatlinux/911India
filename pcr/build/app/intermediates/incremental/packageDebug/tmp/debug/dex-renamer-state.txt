@@ -1,0 +1,4 @@
+#Sun Feb 02 06:57:03 IST 2020
+base.0=/home/vishalg/Desktop/pcr/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
