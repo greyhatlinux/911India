@@ -33,6 +33,8 @@ response will be sent to the nearest
 Police Station and then to all nearby
 PCRs.
 
+![endpoints](/images/2.png)
+
 #### Step 2 :
 The request document which arrives to
 the Police HQ will contain the
@@ -44,6 +46,7 @@ and unavailability of internet, the
 Lat-Long will be sent via text-based
 messages.
 
+![endpoints](/images/3.png)
 
 #### Step 3 :
 Upon receiving help request, all the
@@ -53,6 +56,9 @@ The app with the PCR will clearly show
 the location of incoming help request,
 along with the nearest route to him.
 
+![endpoints](/images/4.png)
+
+
 #### Step 4 :
 By the appropriate and timely
 execution of the above mentioned
@@ -60,7 +66,7 @@ steps, the requestor would be
 rescued and and/or potential crime
 is expected to be prevented.
 
-
+![endpoints](/images/5.png)
 
 
 ### Advantages
