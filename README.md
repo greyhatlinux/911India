@@ -19,7 +19,7 @@ crimes and emergencies in real time.
 
 
 #### Roadmap :
-![endpoints](./images/1.png)
+![endpoints](/images/1.png)
 
 #### Step 1 :
 The user downloads the App into his
@@ -33,10 +33,6 @@ response will be sent to the nearest
 Police Station and then to all nearby
 PCRs.
 
-![endpoints](./images/2.png)
-
-
-
 #### Step 2 :
 The request document which arrives to
 the Police HQ will contain the
@@ -48,7 +44,6 @@ and unavailability of internet, the
 Lat-Long will be sent via text-based
 messages.
 
-![endpoints](./images/3.png)
 
 #### Step 3 :
 Upon receiving help request, all the
@@ -58,8 +53,6 @@ The app with the PCR will clearly show
 the location of incoming help request,
 along with the nearest route to him.
 
-![endpoints](./images/4.png)
-
 #### Step 4 :
 By the appropriate and timely
 execution of the above mentioned
@@ -67,7 +60,7 @@ steps, the requestor would be
 rescued and and/or potential crime
 is expected to be prevented.
 
-![endpoints](./images/5.png)
+
 
 
 ### Advantages
@@ -78,26 +71,3 @@ is expected to be prevented.
 * Hassle-Free user experience
 * Encrypted Data 
 * Well handled exceptions
-
-
-### Need for the Proposed System
-
-* Minimize manual data entry
-* Minimum time needed for the various processing
-* Greater efficiency
-* User-friendly and interactive
-* Provides multiple layered security
-* Reduces man power
-
-### Future Prospects
-
-* A new feature will be added in which people close to the user can help in
-case of an emergency.
-* Feature to allow the user to share a picture of the crime scene if possible.
-* In future, the app can address emergencies during natural calamities like
-floods, earthquakes etc.
-* Machine Learning will be employed for better PCR dispatch and quick help.
-* Instead of monolithic infrastructure, the system will be based on
-micro-services.
-* Implementation of ELK stack.
-* The incorporation of ansible will make the entire architecture fault-tolerant.
